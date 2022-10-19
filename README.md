@@ -1,61 +1,49 @@
-### Hi there 👋, I'm Ivan, student SSAU
-
-![](https://komarev.com/ghpvc/?username=VladKalachev)
-
-## I'm a FrontEnd Developer, and Teacher
-- 💪 I like to write code
-- 📷 I do photography
-- 🥅 I am constantly learning new things
-- 📚 I am a first year student of FIIT SSAU 
+<h1 align="center">I'm Russian, questions?
+<img src="images/Hi.gif" height="32"/></h1>
+<h3 align="center">Ivan, student SSAU.FIIT</h3>
 
 ### Connect with me:
+<p align="left">
+<a href="https://t.me/vexyzy" target="_blank"><img align="center" src="icons/social/Telegram.svg" alt="Vexyzy" height="40" width="40" /></a>
+<a href="https://instagram.com/vexyzy.photo" target="_blank"><img align="center" src="icons/social/instagram.svg" alt="Vexyzy.Photo" height="40" width="40" /></a>
+<a href="https://stackoverflow.com/users/15176938" target="_blank"><img align="center" src="icons/social/vk.svg" alt="Vexyzy" height="40" width="40" /></a>
+</p>
 
-[<img align="left" alt="webtricks-master.ru" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Vexyzy | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="Vexyzy | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+### Languages:
+<p align="left"> 
 
-<br />
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="icons/langs/python.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="icons/langs/go.svg" alt="go" width="40" height="40"/> </a>
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="icons/langs/javascript.svg" alt="js" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="icons/langs/HTML5.svg" alt="html5" width="40" height="40"/> </a> 
+</p>
 
-### Languages and Tools:
+### Frameworks:
 
+<p align="left"> 
 
-<img align="left" alt="PHYTHON" width="26px" src="https://ssauru-my.sharepoint.com/:u:/g/personal/2022-02717_students_ssau_ru/EVszIzH15JhOhdqYNt8OTu4BNgpWJzmDvJx3pRpYx8XISQ?e=FuLHAh" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-
-<br />
-<br />
-
-### Blog posts:
-<!-- BLOG-POST-LIST:START -->
-- [Деструктуризация в JavaScript](https://webtricks-master.ru/javascript/destrukturizatsiya-v-javascript/)
-- [Пишем список задач на React Hooks](https://webtricks-master.ru/react-hooks/pishem-spisok-zadach-na-react-hooks/)
-- [Custom Hooks на примерах. Пишем свой useInput, useFetch, useTheme — React Hooks](https://webtricks-master.ru/react-hooks/custom-hooks-na-primerah-pishem-svoj-useinput-usefetch-usetheme-react-hooks/)
-- [Как подключить Sass к React?](https://webtricks-master.ru/beginners/kak-podklyuchit-sass-k-react/)
-- [Обзор VSCode Stories. Плагины Visual Studio Code](https://webtricks-master.ru/novosti-it/obzor-vscode-stories-plaginy-visual-studio-code/)
-<!-- BLOG-POST-LIST:END -->
-
-### My YouTube Videos:
-<!-- YOUTUBE:START -->
-- [Как найти работу джуну без опыта? пошаговая инструкция](https://www.youtube.com/watch?v=DzyKrIBHln8)
-- [Пишем список задач на React &lpar;React Hooks&rpar;](https://www.youtube.com/watch?v=XwIiBXZ41Os)
-- [Custom Hooks на примерах. Пишем свой useInput, useFetch, useTheme - React Hooks](https://www.youtube.com/watch?v=VFefv_YSGfY)
-- [Учим useLayoutEffect за 6 минут - React Hooks](https://www.youtube.com/watch?v=KaaH6cra2lo)
-- [Учим useCallback за 7 минут - React Hooks](https://www.youtube.com/watch?v=AqCkWH4ws1Y)
-<!-- YOUTUBE:END -->
-
-<details>
-  <summary>:zap: Statistics:</summary>
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladKalachev&langs_count=8&layout=compact" />
-    <br />
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VladKalachev&show_icons=true" />
-</details>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="icons/frameworks/flask.svg" alt="flask" width="40" height="40"/> </a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="icons/frameworks/django.svg" alt="django" width="40" height="40"/> </a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="icons/frameworks/fastapi.svg" alt="fastapi" width="40" height="40"/> </a> 
+<a href="https://github.com/gin-gonic/gin" target="_blank" rel="noreferrer"> <img src="icons/frameworks/gin-gonic.png" alt="gin" height="45"/> </a> 
+</p>
 
 
-[telegram]: https://t.me/vexyzy
-[instagram]: https://www.instagram.com/vexyzy.photo/
-[vk]: https://vk.com/vexyzy
+### Services:
+<p align="left"> 
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="icons/services/postgresql.svg" alt="postgresql" width="40" height="40"/> </a> 
+<a href="https://min.io/" target="_blank" rel="noreferrer"> <img src="icons/services/minio.svg" alt="minio" width="40" height="40"/> </a> 
+<a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="icons/services/rabbitmq.svg" alt="rabbitmq" width="40" height="40"/> </a> 
+</p>
+
+
+### Tools:
+<p align="left"> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="icons/tools/linux.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="icons/tools/ubuntu.svg" alt="ubuntu" width="40" height="40"/> </a> 
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="icons/tools/Bash.svg" alt="bash" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="icons/tools/git.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="icons/tools/PyCharm.svg" alt="pycharm" width="40" height="40"/> </a> 
+<a href="https://www.jetbrains.com/go/" target="_blank" rel="noreferrer"> <img src="icons/tools/goland.svg" alt="goland" width="40" height="40"/> </a> 
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="icons/tools/postman.svg" alt="postman" width="40" height="40"/> </a> 
+</p>
