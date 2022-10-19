@@ -2,6 +2,11 @@
 <img src="images/Hi.gif" height="32"/></h1>
 <h3 align="center">Ivan, student SSAU.FIIT</h3>
 
+## I'm a FrontEnd Developer, and Student
+- 💪 I like to write code
+- 📷 I love taking pictures
+- 🥅 I am constantly learning new things
+
 ### Connect with me:
 <p align="left">
 <a href="https://t.me/vexyzy" target="_blank"><img align="center" src="VexyzyFile\icons\social\" alt="Vexyzy" height="40" width="40" /></a>
