@@ -1,5 +1,5 @@
 <h1 align="center">I'm Russian, questions?
-<img src="images/Hi.gif" height="32"/></h1>
+<img src="VexyzyFile\images\guyar.gif" height="32"/></h1>
 <h3 align="center">Ivan, student SSAU.FIIT</h3>
 
 ## I'm a FrontEnd Developer, and Student
