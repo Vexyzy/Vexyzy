@@ -4,9 +4,9 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://t.me/vexyzy" target="_blank"><img align="center" src="icons/social/Telegram.svg" alt="Vexyzy" height="40" width="40" /></a>
+<a href="https://t.me/vexyzy" target="_blank"><img align="center" src="VexyzyFile\icons\social\telegram.svg" alt="Vexyzy" height="40" width="40" /></a>
 <a href="https://instagram.com/vexyzy.photo" target="_blank"><img align="center" src="VexyzyFile\icons\social\instagram.svg" alt="Vexyzy.Photo" height="40" width="40" /></a>
-<a href="https://stackoverflow.com/users/15176938" target="_blank"><img align="center" src="icons/social/vk.svg" alt="Vexyzy" height="40" width="40" /></a>
+<a href="https://vk.com/vexyzy" target="_blank"><img align="center" src="VexyzyFile\icons\social\vk.svg" alt="Vexyzy" height="40" width="40" /></a>
 </p>
 
 ### Languages:
