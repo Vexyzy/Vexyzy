@@ -17,10 +17,9 @@
 ### Languages:
 <p align="left"> 
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="icons/langs/python.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="icons/langs/go.svg" alt="go" width="40" height="40"/> </a>
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="icons/langs/javascript.svg" alt="js" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="icons/langs/HTML5.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="icons/langs/icons8-python-96.png" alt="python" width="40" height="40"/> </a> 
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"> <img src="icons/langs/icons8-c-sharp-logo-96.png" alt="C#" width="40" height="40"/> </a>
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="icons/langs/icons8-php-logo-80.png" alt="php" width="40" height="40"/> </a> 
 </p>
 
 ### Laboratory work:
