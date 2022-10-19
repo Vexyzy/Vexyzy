@@ -1,8 +1,7 @@
-<h1 align="center">I'm Russian, questions?
-<img src="VexyzyFile\images\guyar.gif" height="32"/></h1>
-<h3 align="center">Ivan, student SSAU.FIIT</h3>
+<h1 align="center"><img src="VexyzyFile\images\guyar.gif" height="27"/>I'm Russian, questions?<img src="VexyzyFile\images\guyar.gif" height="27"/></h1>
+<h3 align="center">Ivan, student SSAU - FIIT</h3>
 
-## I'm a FrontEnd Developer, and Student
+## I'm a FrontEnd Developer and Student
 - 💪 I like to write code
 - 📷 I love taking pictures
 - 🥅 I am constantly learning new things
