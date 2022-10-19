@@ -17,21 +17,18 @@
 ### Languages:
 <p align="left"> 
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="icons/langs/icons8-python-96.png" alt="python" width="40" height="40"/> </a> 
-<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"> <img src="icons/langs/icons8-c-sharp-logo-96.png" alt="C#" width="40" height="40"/> </a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="icons/langs/icons8-php-logo-80.png" alt="php" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="VexyzyFile\icons\langs\icons8-python-96.png" alt="python" width="40" height="40"/> </a> 
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"> <img src="VexyzyFile\icons\langs\icons8-c-sharp-logo-96.png" alt="C#" width="40" height="40"/> </a>
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="VexyzyFile\icons\langs\icons8-php-logo-80.png" alt="php" width="40" height="40"/> </a> 
 </p>
 
-### Laboratory work:
+### Laboratory works:
 💤 It's empty now 💤
 
 ### Tools:
 <p align="left"> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="icons/tools/linux.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="icons/tools/ubuntu.svg" alt="ubuntu" width="40" height="40"/> </a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="icons/tools/Bash.svg" alt="bash" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="icons/tools/git.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="icons/tools/PyCharm.svg" alt="pycharm" width="40" height="40"/> </a> 
-<a href="https://www.jetbrains.com/go/" target="_blank" rel="noreferrer"> <img src="icons/tools/goland.svg" alt="goland" width="40" height="40"/> </a> 
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="icons/tools/postman.svg" alt="postman" width="40" height="40"/> </a> 
+<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="VexyzyFile\icons\tools\icons8-android-studio-96.png" alt="VisualStudio" width="40" height="40"/> </a> 
+<a href="https://www.jetbrains.com" target="_blank" rel="noreferrer"> <img src="VexyzyFile\icons\tools\icons8-jetbrains-96.png" alt="JetBrains" width="40" height="40"/> </a> 
+<a href="https://www.jetbrains.com/pycharm" target="_blank" rel="noreferrer"> <img src="VexyzyFile\icons\tools\icons8-pycharm-96.png" alt="PyCharm" width="40" height="40"/> </a> 
+<a href="https://developer.android.com/studio/intro" target="_blank" rel="noreferrer"> <img src="VexyzyFile\icons\tools\icons8-android-studio-96.png" alt="AndroidStudio" width="40" height="40"/> </a> 
 </p>
