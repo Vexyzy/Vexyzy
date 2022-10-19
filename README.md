@@ -1,4 +1,3 @@
-<img src="VexyzyFile\images\guyar.gif" height="32"/></h1>
 <h1 align="center">I'm Russian, questions?
 <img src="VexyzyFile\images\guyar.gif" height="32"/></h1>
 <h3 align="center">Ivan, student SSAU.FIIT</h3>
@@ -10,9 +9,9 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://t.me/vexyzy" target="_blank"><img align="center" src="VexyzyFiles\icons\social\icons8-telegram-app-96.png" alt="Vexyzy" height="40" width="40" /></a>
-<a href="https://instagram.com/vexyzy.photo" target="_blank"><img align="center" src="VexyzyFiles\icons\social\icons8-instagram-96.png" alt="Vexyzy.Photo" height="40" width="40" /></a>
-<a href="https://vk.com/vexyzy" target="_blank"><img align="center" src="VexyzyFiles\icons\social\icons8-vk-circled-96.png" alt="Vexyzy" height="40" width="40" /></a>
+<a href="https://t.me/vexyzy" target="_blank"><img align="center" src="VexyzyFile\icons\social\icons8-telegram-app-96.png" alt="Vexyzy" height="40" width="40" /></a>
+<a href="https://instagram.com/vexyzy.photo" target="_blank"><img align="center" src="VexyzyFile\icons\social\icons8-instagram-96.png" alt="Vexyzy.Photo" height="40" width="40" /></a>
+<a href="https://vk.com/vexyzy" target="_blank"><img align="center" src="VexyzyFile\icons\social\icons8-vk-circled-96.png" alt="Vexyzy" height="40" width="40" /></a>
 </p>
 
 ### Languages:
