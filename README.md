@@ -31,7 +31,7 @@
 <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="VexyzyFile\icons\tools\icons8-visual-studio-code-2019-96.png" alt="VisualStudio" width="40" height="40"/> </a> 
 <a href="https://www.jetbrains.com" target="_blank" rel="noreferrer"> <img src="VexyzyFile\icons\tools\icons8-jetbrains-96.png" alt="JetBrains" width="40" height="40"/> </a> 
 <a href="https://www.jetbrains.com/pycharm" target="_blank" rel="noreferrer"> <img src="VexyzyFile\icons\tools\icons8-pycharm-96.png" alt="PyCharm" width="40" height="40"/> </a> 
-<a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"> <img src="icons8-webstorm-96.png" alt="WebStorm" width="40" height="40"/>
+<a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"> <img src="icons8-webstorm-144.png" alt="WebStorm" width="40" height="40"/>
 <a href="https://developer.android.com/studio/intro" target="_blank" rel="noreferrer"> <img src="VexyzyFile\icons\tools\icons8-android-studio-96.png" alt="AndroidStudio" width="40" height="40"/> </a> 
 
 </p>
