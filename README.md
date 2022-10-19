@@ -1,4 +1,4 @@
-<h1 align="center"><img src="VexyzyFile\images\guyar.gif" height="27"/>I'm Russian, questions?<img src="VexyzyFile\images\guyar.gif" height="27"/></h1>
+<h1 align="center"><img src="VexyzyFile\images\guyar.gif" height="40"/>I'm Russian, questions?<img src="VexyzyFile\images\guyar.gif" height="40"/></h1>
 <h2 align="center"><img src="gif-anime-steam-pixelbox.ru-68.gif" height="479" width="887"/></h2>
 <h3 align="center">Ivan, student SSAU - FIIT</h3>
 
