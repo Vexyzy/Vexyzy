@@ -18,12 +18,8 @@
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="VexyzyFile\icons\langs\icons8-python-96.png" alt="python" width="40" height="40"/> </a> 
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"> <img src="VexyzyFile\icons\langs\icons8-c-sharp-logo-96.png" alt="C#" width="40" height="40"/> </a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="VexyzyFile\icons\langs\icons8-php-logo-80.png" alt="php" width="40" height="40"/> </a> 
 <a href="https://ru.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer"> <img src="icons8-html-5-96.png" alt="HTML" width="40" height="40"/> </a> 
 </p>
-
-### Laboratory works:
-💤 It's empty now 💤
 
 ### Tools:
 <p align="left"> 
