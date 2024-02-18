@@ -1,7 +1,7 @@
 <h1 align="center"><img src="VexyzyFile\images\guyar.gif" height="27" width="27"/>Hi, I'm Van.<img src="VexyzyFile\images\guyar.gif" height="27" width="27"/></h1>
 <img src="gif-anime-steam-pixelbox.ru-68.gif" height="479" width="887"/>
 
-## I'm a FrontEnd Developer and Student
+## I'm a Backend Developer and Student
 - 💪 I like to write code
 - 📷 I love taking pictures
 - 🥅 I am constantly learning new things
