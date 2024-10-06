@@ -1,4 +1,4 @@
-<h1 align="center"><img src="VexyzyFile\images\guyar.gif" height="27" width="27"/>Hi, I'm Van.<img src="VexyzyFile\images\guyar.gif" height="27" width="27"/></h1>
+<h1 align="center">Hi, I'm Van.</h1>
 
 ## I'm a Backend Developer and Student
 - 💪 I like to write code
